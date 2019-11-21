@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [xcode-select切换Xcode](https://www.liuxiaoyue.com/articles/2019/11/20/1574235861309.html)
+* [macOS开启开发者模式](https://www.liuxiaoyue.com/articles/2019/11/20/1574235389915.html)
 * [JS Map对象排序](https://www.liuxiaoyue.com/articles/2019/11/18/1574045699618.html)
 * [Docker容器进入的2种方式](https://www.liuxiaoyue.com/articles/2019/11/14/1573719181862.html)
 
